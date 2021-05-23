@@ -7123,3 +7123,93 @@ html { scroll-behavior: smooth; }
   border-radius: 10px;
   box-shadow: 0 10px 10px rgba(0,0,0,.16);
 }
+
+/* from index new and style new */
+.hero_content span {
+	font-size: 18px;
+	font-weight: 600;
+	display: inline-block;
+	color: #e5175c;
+	margin-bottom: 20px;
+}
+
+.hero_content .hero_btn a {
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.thm_btn {
+  font-size: 14px;
+  padding: 16px 30px;
+  text-align: center;
+  position: relative;
+  color: #fefefe;
+  text-transform: uppercase;
+  background: #0073ff;
+  font-weight: 600;
+  display: inline-block;
+  border: 2px solid transparent;
+}
+.thm_btn-2 {
+  background-color: #e5175c;
+}
+.courses_area .course_single {
+  padding: 15px;
+  background: #fff;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.course_content .c_head .cat {
+  font-size: 17px;
+  color: #e5175c;
+  font-weight: 600;
+}
+
+.sec_title {
+  max-width: 600px;
+  margin-bottom: 35px;
+}
+
+.ct_single {
+  background: #fff;
+  padding: 45px 30px;
+  padding-right: 20px;
+  border: .5px solid #f7f7f7;
+  position: relative;
+  transition: .3s;
+  -webkit-transition: .3s;
+  -moz-transition: .3s;
+  -ms-transition: .3s;
+  -o-transition: .3s;
+}
+
+.footer_space {
+  padding-top: 25px;
+}
+.footer_bg {
+  background: #000;
+}
+.footer_widget .social_icon > a {
+  background: rgba(255, 255, 255, 0.109);
+}
+.social_icon a {
+  width: 40px;
+  height: 40px;
+  background: #f7f7f7;
+  line-height: 43px;
+  color: #a4a4a4;
+  font-size: 15px;
+  text-align: center;
+  margin-right: 5px;
+}
+.footer_widget h3 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  font-family: 'Josefin Sans', sans-serif;
+}
